@@ -4,7 +4,7 @@
 {
   "title": "Senior Product Manager | AI/ML & FinTech",
   "path": "Software Engineer → Data Engineer → Product Manager → MBA",
-  "location": "Evanston, IL",
+  "location": "San Francisco, CA",
   "education": "Kellogg/McCormick MMM (MBA + MS Design Innovation), Northwestern '26",
   "currentFocus": [
     "GenAI Platforms",

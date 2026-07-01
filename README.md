@@ -42,4 +42,6 @@ Seven years of shipping production code in Java, Python, and C++ at Intuit, acro
 
 ## 📬 Let's Connect
 
-**[LinkedIn](https://linkedin.com/in/vignesh-r24)** · **[Website](https://vigneshradhakrishnan.com)** · **[Email](mailto:hello@vigneshradhakrishnan.com)**
+- **LinkedIn:** [linkedin.com/in/vignesh-r24](https://www.linkedin.com/in/vignesh-radhakrishnan-)
+- **Website:** https://vigneshradhakrishnan.com
+- **Email:** hello@vigneshradhakrishnan.com
